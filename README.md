@@ -1,4 +1,4 @@
-### Hi there I'm Ethan 👨🏻‍💻🖖🏻
+### Hi there I'm Fernando E 👨🏻‍💻🖖🏻
 
 ## ⚡ Technologies
 - Robust full-stack system design implementation
