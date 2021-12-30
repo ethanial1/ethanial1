@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux.js) <br />
 
 ## 📫 Contact Me
