@@ -28,7 +28,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) <br />
 
 ## 📫 Contact Me
-- [Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flatsquare&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)]
+- [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flatsquare&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)]
 - [LinkedIn](https://www.linkedin.com/in/fernandotolentinosa/)
 - [Twitter](https://twitter.com/theheredero_)
 - 📬 fernando.tolentino.sa@gmail.com
