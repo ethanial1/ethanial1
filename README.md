@@ -1,5 +1,5 @@
 <h1 align="center">Hi there I'm Fernando E.J 👨🏻‍💻</h1>
-<p> I'm a Full Stack Developer </p>
+<p> I'm a Full Stack Developer, I am passionate about coding and technology in general. I'm a fullstack developer able to solve problems and provide solutions in the creation of projects using technologies such as Java, Javascript, React Js, NodeJs and Express.</p>
 
 ## Me!
 
