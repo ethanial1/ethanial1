@@ -4,7 +4,6 @@
 ## Me!
 
 - 💻 I **love** coding
-- 🌱 I’m currently learning Node backend
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ethanial1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandotolentinosa/)
